@@ -25,3 +25,17 @@ entry time: 3 hours 20 minutes<br \>
 total time: 3 hours 35 minutes
 </b>
 <hr>
+<h3>entry 3, 29/07/26: 10:55 - 11:02, 11:28 - 13:45</h3>
+okay so turns out all that time spent was lowkey useless because now i want to switch up my design to a corexy design thats direct drive and not bowden<br \>
+so firstly, i updated the speclist.md to fit my new specs.<br \>
+then - i deleted my entire onshape assembly and resized some parts i already had in my document to suit the new design.<br \>
+i spent all the rest of the time designing and modelling the z-axis system for the printer.<br \>
+<img width="729" height="759" alt="image" src="https://github.com/user-attachments/assets/82bac9ba-41ca-48af-9402-4bdd1969e1b4" /><br \>
+its a 3 point z-axis system, meaning i need 3 motors to control the z-axis so the bed doesnt tilt in any weird ways<br \>
+im planning to add a 5:1 gear reduction so the z moves more precisely<br \>
+will also add motor mounts etc. in my next entry - just needed to model for clearance sake!<br \>
+<br \>
+<b>
+entry time: 2 hours 54 minutes<br \>
+total time: 6 hours 29 minutes
+</b>
