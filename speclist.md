@@ -1,5 +1,5 @@
 <h1>a comprehensive spec-list for all the parts in the build!</h1>
-<b>printer type: </b> open frame cartesian / bedslinger<br \>
+<b>printer type: </b>corexy<br \>
 <b>build volume: </b> 235 x 235 x 250 mm<br \>
 <b>print materials: </b> pla, petg, tpu<br \>
 <b>frame: </b> 2040 and 2020 aluminium extrusion<br \>
@@ -7,7 +7,7 @@
 <b>motors: </b> nema17 stepper motors<br \>
 <b>pulleys, belts and idlers: </b> 20 tooth gt2<br \>
 <b>print bed: </b> 24v aluminium pcb heated bed<br \>
-<b>drive type: </b> bowden drive<br \>
+<b>drive type: </b> direct drive<br \>
 <b>extruder: </b> bmg dual-drive extruder<br \>
 <b>hotend: </b> v6 all-metal hotend<br \>
 <b>nozzle: </b> 0.4mm brass nozzle<br \>
