@@ -39,3 +39,17 @@ will also add motor mounts etc. in my next entry - just needed to model for clea
 entry time: 2 hours 54 minutes<br \>
 total time: 6 hours 29 minutes
 </b>
+<hr>
+<h3>entry 4, 31/07/26: 14:43 - 16:49</h3>
+third z-axis redesign!!!!!!!!!<br \>
+i swear it should not be this hard.<br \>
+i re-designed all the rail and idler mounts and made them a lower profile.<br \>
+i added the 5:1 reduction for the z-axis for torque reasons and am finally ready to attach all the motors to the bottom in the next entry.<br \>
+<img width="636" height="690" alt="image" src="https://github.com/user-attachments/assets/f7674f5b-1d5b-492e-8c02-e411095222aa" /><br \>
+too much time spent thinking so thats all for today :(<br \>
+<br \>
+<b>
+entry time: 2 hours 6 minutes<br \>
+total time: 8 hours 35 minutes
+</b>
+<hr>
