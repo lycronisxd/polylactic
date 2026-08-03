@@ -53,3 +53,22 @@ entry time: 2 hours 6 minutes<br \>
 total time: 8 hours 35 minutes
 </b>
 <hr>
+<h3>entry 5, 03/08/26: 12:05 - 14:28</h3>
+sooooo i redesigned some more :)<br \>
+this is the final one i swear - using lead screws and linear rails instead of belt driving the z-axis so it doesnt fall when powers off.<br \>
+i then redesigned the bed holder into a H instead of a T so i can use t-nuts in the aluminium extrusions for the bed<br \>
+<br \>
+and then for the actual work apart from redesign and optimization! (theres not much)<br \>
+i added the y-axis linear rails and made motor mounts so that i can route corexy belts when needed<br \>
+and then i added the x-axis crossbar and a linear rail on the top!<br \>
+<br \>
+next im going to finish off the x and y axis and then start on the toolhead mounts after!<br \>
+this is the current state of the printer.<br \>
+<br \>
+<img width="561" height="619" alt="image" src="https://github.com/user-attachments/assets/080b3160-9fca-4a0e-a3a5-be495083d0f6" /><br \>
+<br \>
+<b>
+entry time: 2 hours 23 minutes<br \>
+total time: 10 hours 58 minutes
+</b>
+<hr>
