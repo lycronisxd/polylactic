@@ -3,7 +3,7 @@
 <b>build volume: </b> 235 x 235 x 250 mm<br \>
 <b>print materials: </b> pla, petg, tpu<br \>
 <b>frame: </b> 2040 and 2020 aluminium extrusion<br \>
-<b>axis rails: </b> mgn12h linear rails<br \>
+<b>axis rails: </b> mgn12h linear rails, lead screws for z-axis<br \>
 <b>motors: </b> nema17 stepper motors<br \>
 <b>pulleys, belts and idlers: </b> 20 tooth gt2<br \>
 <b>print bed: </b> 24v aluminium pcb heated bed<br \>
@@ -16,5 +16,5 @@
 <b>endstops: </b> limit switches<br \>
 <b>wiring: </b> 14 awg wiring for 24v dc, jst cables for motors<br \>
 <b>psu: </b> mean well lrs 350-24<br \>
-<b>firmware: </b> marlin<br \>
-<b>bed levelling: </b> manual leveling
+<b>firmware: </b> klipper<br \>
+<b>bed levelling: </b> manual levelling
