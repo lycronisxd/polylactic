@@ -72,3 +72,21 @@ entry time: 2 hours 23 minutes<br \>
 total time: 10 hours 58 minutes
 </b>
 <hr>
+<h3>entry 6, 04/08/26: 09:52 - 11:48</h3>
+okay, a lot of progress today with the corexy gantry!!<br \>
+i actually properly made a mount for the x axis rails that i can mount gt2 idler pulleys on<br \>
+<img width="620" height="438" alt="image" src="https://github.com/user-attachments/assets/30ca61d8-f8ce-460c-87e3-9d226dc6384d" /><br \>
+and made some gt2 idler corner mounts too (tried to make them reversable so i dont need to make loads of different models when printing)<br \>
+<img width="776" height="555" alt="image" src="https://github.com/user-attachments/assets/f52f541c-6f5e-4f9b-8a9a-a3578bed83bc" /><br \>
+<img width="666" height="400" alt="image" src="https://github.com/user-attachments/assets/5629119c-61a2-465e-95c1-15fbf904412e" /><br \>
+then mated all the pulleys to the mounts (hoping to use m5 screws to bolt them down)<br \>
+and finally modelled a belt that works on the x axis (not y axis yet because i havent modelled the carriage)<br \>
+<img width="753" height="457" alt="image" src="https://github.com/user-attachments/assets/a8654a85-6965-4a11-90c6-5c6f9fd19f7a" /><br \>
+and this is the current model!<br \>
+<img width="603" height="592" alt="image" src="https://github.com/user-attachments/assets/5e70efcb-edf5-4b0e-85bf-64b9d0df1167" /><br \>
+<br \>
+<b>
+entry time: 1 hour 56 minutes<br \>
+total time: 12 hours 54 minutes
+</b>
+<hr>
