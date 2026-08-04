@@ -80,7 +80,7 @@ and made some gt2 idler corner mounts too (tried to make them reversable so i do
 <img width="776" height="555" alt="image" src="https://github.com/user-attachments/assets/f52f541c-6f5e-4f9b-8a9a-a3578bed83bc" /><br \>
 <img width="666" height="400" alt="image" src="https://github.com/user-attachments/assets/5629119c-61a2-465e-95c1-15fbf904412e" /><br \>
 then mated all the pulleys to the mounts (hoping to use m5 screws to bolt them down)<br \>
-and finally modelled a belt that works on the x axis (not y axis yet because i havent modelled the carriage)<br \>
+and finally modelled a belt that works on the y axis (not x axis yet because i havent modelled the carriage)<br \>
 <img width="753" height="457" alt="image" src="https://github.com/user-attachments/assets/a8654a85-6965-4a11-90c6-5c6f9fd19f7a" /><br \>
 and this is the current model!<br \>
 <img width="603" height="592" alt="image" src="https://github.com/user-attachments/assets/5e70efcb-edf5-4b0e-85bf-64b9d0df1167" /><br \>
@@ -88,5 +88,22 @@ and this is the current model!<br \>
 <b>
 entry time: 1 hour 56 minutes<br \>
 total time: 12 hours 54 minutes
+</b>
+<hr>
+<h3>entry 7, 04/08/26: 15:32 - 16:37</h3>
+not much to say in this session other than i modelled the x-axis carriage and amended the belt for aesthetic reasons<br \>
+<img width="779" height="534" alt="image" src="https://github.com/user-attachments/assets/de89d695-56e1-498d-a1a2-21e91de07beb" /><br \>
+<img width="539" height="581" alt="image" src="https://github.com/user-attachments/assets/8384f68b-0c14-4cb5-8cf6-9fd85361a06c" /><br \>
+so this is the final corexy belt path<br \>
+<img width="684" height="687" alt="image" src="https://github.com/user-attachments/assets/7ddf66cc-1d5c-4539-9564-3957dc2f09f1" /><br \>
+and this is what the printer looks like now<br \>
+<img width="541" height="648" alt="image" src="https://github.com/user-attachments/assets/23cb3779-6b75-41f5-b4df-6162a8abf9ea" /><br \>
+next up is to model the mount for the toolhead and filament drive,<br \>
+and then also model the mounts for the aluminium extrusion so it will actually stay together<br \>
+and then FINALLY model and feet to elevate the printer and mount the electronics to the printer.<br \>
+<br \>
+<b>
+entry time: 1 hour 5 minutes<br \>
+total time: 13 hours 59 minutes
 </b>
 <hr>
